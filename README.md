@@ -10,5 +10,6 @@
 <br>
 <img src="https://github.com/Julianjeremias/wide-coverage-location/blob/master/img/wide-desktop.jpeg?raw=true" />
 <br>
-<h2>Imagem do site por disposívo móvel:</h2>
+<h2>Imagem do site por dispositivo móvel:</h2>
 <br>
+<img src="https://github.com/Julianjeremias/wide-coverage-location/blob/master/img/wide-mobile.jpeg?raw=true" />
